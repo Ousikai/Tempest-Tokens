@@ -9,7 +9,7 @@ import (
 	"github.com/stellar/go/txnbuild"
 )
 
-func main-c2() {
+func main_c2() {
 	client := horizonclient.DefaultTestNetClient
 
 	// Remember, these are just examples, so replace them with your own seeds.

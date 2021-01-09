@@ -11,7 +11,7 @@ import (
 	"github.com/stellar/go/txnbuild"
 )
 
-func main-c1() {
+func main_c1() {
 
 	// Use the default pubnet client
 	kp, _ := keypair.Parse("MASTER_ACCOUNT_SECRET_KEY")
